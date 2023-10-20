@@ -43,7 +43,7 @@ For a full list of command type /help
 
 Visit my dedicated telegram bot here [**@StafiChatIDBot**](https://t.me/StafiChatIDBot) for collecting your Chat ID that you will be asked for when you run install-coti-node-monitor.sh in Step 3 that follows.
 
-## Step 3: Download & Setup The Scripts Required For Stafi Stats
+## Step 3: Download & Setup The Scripts Required
 
 <br>
 
